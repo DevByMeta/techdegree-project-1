@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	font-family: "Arial";
+	color: #333;
+	border: solid black 2px;
+}
+
+li {
+	list-style-type: none;
+}
